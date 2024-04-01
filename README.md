@@ -52,7 +52,7 @@ Currently, I'm on a mission to conquer the vast realms of software development w
 
 ## My stats
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abeehimr&theme=github-dark&custom_title=my%20this%20month%20activity%20on%20Github&hide_border=true&line=adbac7&color=adbac7)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abeehimr&theme=github-dark&custom_title=This%20month%20activity%20on%20Github&hide_border=true&line=adbac7&color=adbac7)
 
 ## Meet my code buddy!
 
