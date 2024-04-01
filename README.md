@@ -45,6 +45,7 @@ Currently, I'm on a mission to conquer the vast realms of software development w
 
 - 🌟 Proficient in Python, C, C++, Bash, and JavaScript.
 - 🚀 Skilled in scripting, automation, web scraping, backend development, and game development.
+- ⚙️ Skilled in utilizing Django framework to develop dynamic and responsive backend systems for websites.
 - 🎨 Experienced in crafting captivating user experiences with Figma and Adobe Illustrator.
 - 📊 Passionate about data analysis and interpretation.
 - 💻 A code wizard with a knack for competitive programming and mastering data structures.
