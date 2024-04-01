@@ -128,5 +128,6 @@ Brought the excitement of the beautiful game to life with a visually stunning we
 
 </details>
 
-
-Let's embark on an epic coding adventure together! 🚀✨
+<div align="center">
+  <p><b>feel free se leave a message if you have any suggestions (or a job/project) 🚀✨</p>
+</div>
