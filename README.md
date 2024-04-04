@@ -37,18 +37,20 @@
 
 <p align = "center"><b>Welcome to my code wasteland!</p>
 
-I'm a self-taught programmer, always seeking new adventures in the world of code.
+I'm a self-taught programmer, always seeking new ways to get my hands dirty in the world of code.
 
-Whether I'm deciphering complex algorithms or crafting elegant solutions, I thrive on the excitement of problem-solving.
+Whether I'm deciphering complex algorithms or crafting stupidly elegant solutions, I thrive on the excitement of getting stuck of Problems just for the fun of it.
 
-Currently, I'm on a mission to conquer the vast realms of software development while pursuing my Bachelor's degree at Punjab University College of Information Technology (PUCIT).
+Currently, I'm on a mission to master the art of coding from the internet while also pursuing my Bachelor's degree at Punjab University College of Information Technology (PUCIT AKA FCIT).
 
 - 🌟 Proficient in Python, C, C++, Bash, and JavaScript.
+- 💻 Loves to do competitive programming and DSA(data structures and algorithm).
 - 🚀 Skilled in scripting, automation, web scraping, backend development, and game development.
+- 🎮 Proficient in designing and developing games using Python and Pygame.
 - ⚙️ Skilled in utilizing Django framework to develop dynamic and responsive backend systems for websites.
 - 🎨 Experienced in crafting captivating user experiences with Figma and Adobe Illustrator.
 - 📊 Passionate about data analysis and interpretation.
-- 💻 A code wizard with a knack for competitive programming and mastering data structures.
+
 
 ## My stats
 
