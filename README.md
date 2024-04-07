@@ -73,19 +73,22 @@ Currently, I'm on a mission to master the art of coding from the internet while 
   <summary><h2>🚀 Projects</h2></summary>
 
 ### Pygame Platformer Game
-Designed and developed a thrilling platformer game, complete with pixel-perfect collisions and dynamic animation.
+Designed and developed a platformer game implementing pixel-perfect collisions, animation integration, sprite manipulation, and adaptive difficulty scaling. Enriched with essential features such as user authentication, secure data storage, intuitive menu navigation, and a competitive scoreboard.
+
+### Wikipedia Clone
+Developed Django-based Wikipedia clone as part of CS50W course. Includes features like word search, content editing, new content addition, random page display, and Markdown conversion.
 
 ### Web Scraper
-Crafted a powerful Python web scraper to harvest valuable data from the depths of the internet.
+Developed a Python web scraper (requests, BeautifulSoup) to automate extraction and storage of university admission test data in CSV format, optimizing data management.
 
-### Interactive Tic-Tac-Toe Game
-Embarked on a quest to create the ultimate Python-based Tic-Tac-Toe game, featuring customizable gameplay and immersive user profiles.
+### Interactive Tic-Tac-Toe Game with User Profiles
+Designed and implemented a customizable Python-based Tic-Tac-Toe game featuring a menu system, user profile management, and score tracking. 
 
 ### DSA Implementation Project
-Explored the depths of data structures and algorithms, mastering a myriad of essential concepts and implementations.
+Implemented wide range of data structures including linked lists, hash table, heaps, binary trees, and AVL trees, alongside algorithmic programs.
 
 ### Football Club Website
-Brought the excitement of the beautiful game to life with a visually stunning website for a local football club.
+Designed and developed a visually engaging website for a football club using Figma, HTML, and CSS, featuring a seamless UI/UX design and interactive elements such as hidden easter eggs.
 
 </details>
 <details>
