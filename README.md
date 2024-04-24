@@ -75,6 +75,15 @@ Currently, I'm on a mission to master the art of coding from the internet while 
 ### Pygame Platformer Game
 Designed and developed a platformer game implementing pixel-perfect collisions, animation integration, sprite manipulation, and adaptive difficulty scaling. Enriched with essential features such as user authentication, secure data storage, intuitive menu navigation, and a competitive scoreboard.
 
+### ASCII Art Converter
+Created scripts to transform images and live video streams into ASCII art, leveraging PIL and OpenCV libraries for processing and display.
+
+### Tetris Game
+Created A Python implementation of Tetris using Pygame, featuring standard gameplay mechanics, including falling tetrominoes, line clearing, and score tracking.
+
+### 2D Fractal Engine
+A Python 2D fractal engine utilizing Pygame, capable of generating and visualizing tree and triangle fractals in real-time, powered by recursive algorithms and Pygame's graphical capabilities.
+
 ### Wikipedia Clone
 Developed Django-based Wikipedia clone as part of CS50W course. Includes features like word search, content editing, new content addition, random page display, and Markdown conversion.
 
