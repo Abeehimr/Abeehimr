@@ -48,6 +48,7 @@ Currently, I'm on a mission to master the art of coding from the internet while 
 - 🚀 Skilled in scripting, automation, web scraping, backend development, and game development.
 - 🎮 Proficient in designing and developing games using Python and Pygame.
 - ⚙️ Skilled in utilizing Django framework to develop dynamic and responsive backend systems for websites.
+- 📸 Proficient in computer vision techniques and libraries such as OpenCV.
 - 🎨 Experienced in crafting captivating user experiences with Figma and Adobe Illustrator.
 - 📊 Passionate about data analysis and interpretation.
 
