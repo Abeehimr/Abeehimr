@@ -104,6 +104,7 @@ Designed and developed a visually engaging website for a football club using Fig
 <details>
   <summary><h2>🏆 Achievements</h2></summary>
 
+- 🏆 Position holder in ElectroCon 24: Logic Blitz
 - 🏆 Top ranker in ITEC 24 CodeClash competition.
 - 🏅 Finalist in BrainX Speed Programming competition.
 - 🥈 2nd position in ECAT 2023 nationwide.
